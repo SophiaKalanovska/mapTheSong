@@ -1,0 +1,3427 @@
+[
+  {
+    "client": "SHAZAM",
+    "geolocation": {
+      "zone": "16",
+      "region": {
+        "locality": "Berlin",
+        "country": "Germany"
+      },
+      "latitude": 52.47,
+      "longitude": 13.35
+    },
+    "installation": {
+      "accountId": "00f22d6b4d483219133893e27ec4b7980270861e",
+      "application": {
+        "flavour": "SHAZAM",
+        "version": "11.4.3"
+      },
+      "country": "DE",
+      "device": {
+        "operatingSystem": {
+          "name": "IOS",
+          "version": "11.1.2"
+        }
+      },
+      "language": "de",
+      "noads": false,
+      "platform": "IPHONE"
+    },
+    "match": {
+      "track": {
+        "cluster": "music_a_prog",
+        "duplicatesCount": 31,
+        "facility": "gpu-production.europe-west1-d",
+        "frequencyskew": 0.000806,
+        "id": 5434612,
+        "metadata": {
+          "artistname": "Salif Keita",
+          "tracktitle": "Tekere"
+        },
+        "offset": 22.851382812,
+        "score": 1481,
+        "timeskew": 0.00201
+      }
+    },
+    "matches": [
+      {
+        "algorithm": "TwoPoint",
+        "best_match": true,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "music_a_prog",
+        "clusterTrackId": "153353120",
+        "commercial": false,
+        "data_set": "musica",
+        "data_set_song_id": 153353120,
+        "duplicatesCount": 31,
+        "endpoint": "musica",
+        "facility": "gpu-production.europe-west1-d",
+        "frequencySkew": 0.000806,
+        "ignored": false,
+        "matchStatus": "MATCH",
+        "match_depth": 1,
+        "offset": 22.851382812,
+        "sample_length": 5.013249874,
+        "score": 1481,
+        "slice": "musica3",
+        "timeSkew": 0.00201,
+        "trackId": "5434612",
+        "track_length": 396782
+      }
+    ],
+    "tagid": "ED4C9DFA-22F4-4021-B4A7-382E5BB9F8E5",
+    "timestamp": 1512604794687,
+    "timezone": "Europe/Berlin",
+    "type": "AUDIO"
+  },
+  {
+    "client": "SHAZAM",
+    "geolocation": {
+      "zone": "011",
+      "region": {
+        "locality": "Añasco",
+        "country": "Puerto Rico"
+      },
+      "latitude": 18.29,
+      "longitude": -67.15
+    },
+    "installation": {
+      "accountId": "4aa1633db7d520955e98ad454786a245ff923475",
+      "application": {
+        "flavour": "SHAZAM",
+        "version": "11.4.3"
+      },
+      "country": "US",
+      "device": {
+        "operatingSystem": {
+          "name": "IOS",
+          "version": "10.3.2"
+        }
+      },
+      "language": "en-US",
+      "noads": false,
+      "platform": "IPHONE"
+    },
+    "match": {
+      "track": {
+        "cluster": "gpu_front_shazamapp_prog",
+        "duplicatesCount": 19,
+        "facility": "ykz.a",
+        "frequencyskew": 0.000483,
+        "id": 152611943,
+        "metadata": {
+          "artistname": "Dark Waves",
+          "tracktitle": "I Don't Wanna Be In Love"
+        },
+        "offset": 40.896078125,
+        "score": 1840,
+        "timeskew": 0.001488
+      }
+    },
+    "matches": [
+      {
+        "algorithm": "TwoPoint",
+        "best_match": true,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "gpu_front_shazamapp_prog",
+        "clusterTrackId": "152881978",
+        "commercial": false,
+        "data_set": "fe",
+        "data_set_song_id": 152881978,
+        "duplicatesCount": 19,
+        "endpoint": "feshazamapp",
+        "facility": "ykz.a",
+        "frequencySkew": 0.000483,
+        "ignored": false,
+        "matchStatus": "MATCH",
+        "match_depth": 2,
+        "offset": 40.896078125,
+        "sample_length": 3.007999897,
+        "score": 1840,
+        "slice": "fe1",
+        "timeSkew": 0.001488,
+        "trackId": "152611943",
+        "track_length": 194720
+      },
+      {
+        "algorithm": "Live",
+        "best_match": true,
+        "category": "LIVE",
+        "channel": "10331",
+        "channel_id": 331,
+        "cluster": "livetv",
+        "commercial": false,
+        "data_set": "livetv",
+        "data_set_song_id": 2839785131474944,
+        "duplicatesCount": 0,
+        "endpoint": "livetv",
+        "facility": "gpu-production.europe-west1-b",
+        "frequencySkew": 0,
+        "ignored": false,
+        "matchStatus": "REJECTED",
+        "match_depth": 2,
+        "offset": 0,
+        "rejectedReason": "3: No schedule data",
+        "sample_length": 3.007999897,
+        "score": 1996,
+        "slice": "livetv12",
+        "timeSkew": 0,
+        "timestamp": 1512604781.4650216,
+        "track_length": 21600000
+      }
+    ],
+    "tagid": "A885E128-A282-47FB-BDF7-B974AC971172",
+    "timestamp": 1512604780454,
+    "timezone": "America/Puerto_Rico",
+    "type": "AUDIO"
+  },
+  {
+    "client": "SHAZAM",
+    "geolocation": {
+      "zone": "CA",
+      "region": {
+        "locality": "California",
+        "country": "United States"
+      },
+      "latitude": 37.44,
+      "longitude": -122.14
+    },
+
+  "installation": {
+    "accountId": "00f22d6b4d483219133893e27ec4b7980270861e",
+    "application": {
+      "flavour": "SHAZAM",
+      "version": "11.4.3"
+    },
+    "country": "DE",
+    "device": {
+      "operatingSystem": {
+        "name": "IOS",
+        "version": "11.1.2"
+      }
+    },
+    "language": "de",
+    "noads": false,
+    "platform": "IPHONE"
+  },
+  "match": {
+    "track": {
+      "cluster": "music_a_prog",
+      "duplicatesCount": 31,
+      "facility": "gpu-production.europe-west1-d",
+      "frequencyskew": 0.000806,
+      "id": 5434612,
+      "metadata": {
+        "artistname": "Salif Keita",
+        "tracktitle": "Tekere"
+      },
+      "offset": 22.851382812,
+      "score": 1481,
+      "timeskew": 0.00201
+    }
+  },
+  "matches": [
+    {
+      "algorithm": "TwoPoint",
+      "best_match": true,
+      "category": "MUSIC",
+      "channel_id": 0,
+      "cluster": "music_a_prog",
+      "clusterTrackId": "153353120",
+      "commercial": false,
+      "data_set": "musica",
+      "data_set_song_id": 153353120,
+      "duplicatesCount": 31,
+      "endpoint": "musica",
+      "facility": "gpu-production.europe-west1-d",
+      "frequencySkew": 0.000806,
+      "ignored": false,
+      "matchStatus": "MATCH",
+      "match_depth": 1,
+      "offset": 22.851382812,
+      "sample_length": 5.013249874,
+      "score": 1481,
+      "slice": "musica3",
+      "timeSkew": 0.00201,
+      "trackId": "5434612",
+      "track_length": 396782
+    }
+  ],
+  "tagid": "ED4C9DFA-22F4-4021-B4A7-382E5BB9F8E5",
+  "timestamp": 1512604794687,
+  "timezone": "Europe/Berlin",
+  "type": "AUDIO"
+},
+  {
+    "client": "SHAZAM",
+    "geolocation": {
+      "zone": "CA",
+      "region": {
+        "locality": "California",
+        "country": "United States"
+      },
+      "latitude": 37.44,
+      "longitude": -122.14
+    },
+    "installation": {
+      "accountId": "47e63e986117b2e1b4d16b77fd221c6c93c76b19",
+      "application": {
+        "flavour": "SHAZAM",
+        "version": "11.4.3"
+      },
+      "country": "US",
+      "device": {
+        "operatingSystem": {
+          "name": "IOS",
+          "version": "11.0.3"
+        }
+      },
+      "language": "en-US",
+      "noads": false,
+      "platform": "IPHONE"
+    },
+    "match": {
+      "track": {
+        "campaignId": "connect:shazam_ads_usa:Maxus_Pitch_Perfect_3_Q417_PP3_20171127_BAioPQKOj",
+        "cluster": "gpu_front_shazamapp_prog",
+        "duplicatesCount": 9,
+        "facility": "ykz.b",
+        "frequencyskew": 0.020036,
+        "id": 372221440,
+        "metadata": {
+          "artistname": "Macklemore",
+          "tracktitle": "Good Old Days"
+        },
+        "offset": 216.152359375,
+        "score": 1994,
+        "timeskew": 0.022639
+      }
+    },
+    "matches": [
+      {
+        "algorithm": "TwoPoint",
+        "best_match": true,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "gpu_front_shazamapp_prog",
+        "clusterTrackId": "375591630",
+        "commercial": false,
+        "data_set": "fe",
+        "data_set_song_id": 375591630,
+        "duplicatesCount": 9,
+        "endpoint": "feshazamapp",
+        "facility": "ykz.b",
+        "frequencySkew": 0.020036,
+        "ignored": false,
+        "matchStatus": "MATCH",
+        "match_depth": 2,
+        "offset": 216.152359375,
+        "sample_length": 3.157249927,
+        "score": 1994,
+        "slice": "fe1",
+        "timeSkew": 0.022639,
+        "trackId": "372221440",
+        "track_length": 240506
+      }
+    ],
+    "tagid": "28BCD0CD-FF2E-46B1-B6EB-2DE120546241",
+    "timestamp": 1512604796292,
+    "timezone": "America/Los_Angeles",
+    "type": "AUDIO"
+  },
+  {
+    "client": "SHAZAM",
+    "installation": {
+      "accountId": "69ea158b1de819c85fcd160c917019a1a8a7154f",
+      "application": {
+        "flavour": "SHAZAM",
+        "version": "8.1.6"
+      },
+      "country": "US",
+      "device": {
+        "operatingSystem": {
+          "name": "android",
+          "version": "7.0"
+        }
+      },
+      "language": "en-US",
+      "noads": false,
+      "platform": "ANDROID"
+    },
+    "match": {
+      "track": {
+        "cluster": "music_a_prog",
+        "duplicatesCount": 74,
+        "facility": "gpu-production.europe-west1-d",
+        "frequencyskew": -0.026152,
+        "id": 47634489,
+        "metadata": {
+          "artistname": "The Bar-Kays",
+          "tracktitle": "Holy Ghost"
+        },
+        "offset": 37.59425,
+        "score": 1928,
+        "timeskew": -0.023141
+      }
+    },
+    "matches": [
+      {
+        "algorithm": "TwoPoint",
+        "best_match": true,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "music_a_prog",
+        "clusterTrackId": "253590171",
+        "commercial": false,
+        "data_set": "musica",
+        "data_set_song_id": 253590171,
+        "duplicatesCount": 74,
+        "endpoint": "musica",
+        "facility": "gpu-production.europe-west1-d",
+        "frequencySkew": -0.026152,
+        "ignored": false,
+        "matchStatus": "MATCH",
+        "match_depth": 1,
+        "offset": 37.59425,
+        "sample_length": 5.077250003,
+        "score": 1928,
+        "slice": "musica3",
+        "timeSkew": -0.023141,
+        "trackId": "47634489",
+        "track_length": 492618
+      }
+    ],
+    "tagid": "05c56703-bf2f-43ba-bb76-7774b7eca8ce",
+    "timestamp": 1512604798261,
+    "timezone": "America/New_York",
+    "type": "AUDIO"
+  },
+  {
+  "client": "SHAZAM",
+  "geolocation": {
+    "zone": "CA",
+    "region": {
+      "locality": "California",
+      "country": "United States"
+    },
+    "latitude": 45.4215,
+    "longitude": 75.6972
+  },
+
+  "installation": {
+    "accountId": "00f22d6b4d483219133893e27ec4b7980270861e",
+    "application": {
+      "flavour": "SHAZAM",
+      "version": "11.4.3"
+    },
+    "country": "DE",
+    "device": {
+      "operatingSystem": {
+        "name": "IOS",
+        "version": "11.1.2"
+      }
+    },
+    "language": "de",
+    "noads": false,
+    "platform": "IPHONE"
+  },
+  "match": {
+    "track": {
+      "cluster": "music_a_prog",
+      "duplicatesCount": 31,
+      "facility": "gpu-production.europe-west1-d",
+      "frequencyskew": 0.000806,
+      "id": 5434612,
+      "metadata": {
+        "artistname": "Salif Keita",
+        "tracktitle": "Tekere"
+      },
+      "offset": 22.851382812,
+      "score": 1481,
+      "timeskew": 0.00201
+    }
+  },
+  "matches": [
+    {
+      "algorithm": "TwoPoint",
+      "best_match": true,
+      "category": "MUSIC",
+      "channel_id": 0,
+      "cluster": "music_a_prog",
+      "clusterTrackId": "153353120",
+      "commercial": false,
+      "data_set": "musica",
+      "data_set_song_id": 153353120,
+      "duplicatesCount": 31,
+      "endpoint": "musica",
+      "facility": "gpu-production.europe-west1-d",
+      "frequencySkew": 0.000806,
+      "ignored": false,
+      "matchStatus": "MATCH",
+      "match_depth": 1,
+      "offset": 22.851382812,
+      "sample_length": 5.013249874,
+      "score": 1481,
+      "slice": "musica3",
+      "timeSkew": 0.00201,
+      "trackId": "5434612",
+      "track_length": 396782
+    }
+  ],
+  "tagid": "ED4C9DFA-22F4-4021-B4A7-382E5BB9F8E5",
+  "timestamp": 1512604794687,
+  "timezone": "Europe/Berlin",
+  "type": "AUDIO"
+},
+  {
+    "client": "SHAZAM",
+    "geolocation": {
+      "zone": "CA",
+      "region": {
+        "locality": "California",
+        "country": "United States"
+      },
+      "latitude": 45.4215,
+      "longitude": -75.6972
+    },
+
+    "installation": {
+      "accountId": "00f22d6b4d483219133893e27ec4b7980270861e",
+      "application": {
+        "flavour": "SHAZAM",
+        "version": "11.4.3"
+      },
+      "country": "DE",
+      "device": {
+        "operatingSystem": {
+          "name": "IOS",
+          "version": "11.1.2"
+        }
+      },
+      "language": "de",
+      "noads": false,
+      "platform": "IPHONE"
+    },
+    "match": {
+      "track": {
+        "cluster": "music_a_prog",
+        "duplicatesCount": 31,
+        "facility": "gpu-production.europe-west1-d",
+        "frequencyskew": 0.000806,
+        "id": 5434612,
+        "metadata": {
+          "artistname": "Salif Keita",
+          "tracktitle": "Tekere"
+        },
+        "offset": 22.851382812,
+        "score": 1481,
+        "timeskew": 0.00201
+      }
+    },
+    "matches": [
+      {
+        "algorithm": "TwoPoint",
+        "best_match": true,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "music_a_prog",
+        "clusterTrackId": "153353120",
+        "commercial": false,
+        "data_set": "musica",
+        "data_set_song_id": 153353120,
+        "duplicatesCount": 31,
+        "endpoint": "musica",
+        "facility": "gpu-production.europe-west1-d",
+        "frequencySkew": 0.000806,
+        "ignored": false,
+        "matchStatus": "MATCH",
+        "match_depth": 1,
+        "offset": 22.851382812,
+        "sample_length": 5.013249874,
+        "score": 1481,
+        "slice": "musica3",
+        "timeSkew": 0.00201,
+        "trackId": "5434612",
+        "track_length": 396782
+      }
+    ],
+    "tagid": "ED4C9DFA-22F4-4021-B4A7-382E5BB9F8E5",
+    "timestamp": 1512604794687,
+    "timezone": "Europe/Berlin",
+    "type": "AUDIO"
+  },
+  {
+    "client": "SHAZAM",
+    "geolocation": {
+      "zone": "10",
+      "region": {
+        "locality": "San Salvador",
+        "country": "El Salvador"
+      },
+      "latitude": 13.72,
+      "longitude": -89.17
+    },
+    "installation": {
+      "accountId": "c92eac2a69cdb0a5dfaf3fbe750ec31c75e46b13",
+      "application": {
+        "flavour": "SHAZAM",
+        "version": "8.1.2"
+      },
+      "country": "SV",
+      "device": {
+        "operatingSystem": {
+          "name": "android",
+          "version": "7.0"
+        }
+      },
+      "language": "es",
+      "noads": false,
+      "platform": "ANDROID"
+    },
+    "match": {
+      "track": {
+        "cluster": "gpu_front_shazamapp_prog",
+        "duplicatesCount": 12,
+        "facility": "ykz.b",
+        "frequencyskew": 8.1e-05,
+        "id": 313866605,
+        "metadata": {
+          "artistname": "Ookay",
+          "tracktitle": "Thief"
+        },
+        "offset": 48.9473125,
+        "score": 4016,
+        "timeskew": -0.001988
+      }
+    },
+    "matches": [
+      {
+        "algorithm": "TwoPoint",
+        "best_match": true,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "gpu_front_shazamapp_prog",
+        "clusterTrackId": "345381690",
+        "commercial": false,
+        "data_set": "fe",
+        "data_set_song_id": 345381690,
+        "duplicatesCount": 12,
+        "endpoint": "feshazamapp",
+        "facility": "ykz.b",
+        "frequencySkew": 8.1e-05,
+        "ignored": false,
+        "matchStatus": "MATCH",
+        "match_depth": 2,
+        "offset": 48.9473125,
+        "sample_length": 3.072000026,
+        "score": 4016,
+        "slice": "fe1",
+        "timeSkew": -0.001988,
+        "trackId": "313866605",
+        "track_length": 239711
+      }
+    ],
+    "tagid": "dbe2c0f9-80fd-4801-a21b-84bf835e5c5f",
+    "timestamp": 1512604795422,
+    "timezone": "America/El_Salvador",
+    "type": "AUDIO"
+  },
+  {
+    "client": "SHAZAM",
+    "installation": {
+      "accountId": "8226a705b778384e1a46e5ef197a8143ad70dd19",
+      "application": {
+        "flavour": "SHAZAM",
+        "version": "8.1.6"
+      },
+      "country": "US",
+      "device": {
+        "operatingSystem": {
+          "name": "android",
+          "version": "6.0.1"
+        }
+      },
+      "language": "en-US",
+      "noads": false,
+      "platform": "ANDROID"
+    },
+    "match": {
+      "track": {
+        "cluster": "gpu_front_shazamapp_prog",
+        "duplicatesCount": 127,
+        "facility": "ykz.b",
+        "frequencyskew": 0.000725,
+        "id": 5164590,
+        "metadata": {
+          "artistname": "Puddle Of Mudd",
+          "tracktitle": "Blurry"
+        },
+        "offset": 51.255882812,
+        "score": 2759,
+        "timeskew": 0.001153
+      }
+    },
+    "matches": [
+      {
+        "algorithm": "TwoPoint",
+        "best_match": true,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "gpu_front_shazamapp_prog",
+        "clusterTrackId": "68741491",
+        "commercial": false,
+        "data_set": "fe",
+        "data_set_song_id": 68741491,
+        "duplicatesCount": 127,
+        "endpoint": "feshazamapp",
+        "facility": "ykz.b",
+        "frequencySkew": 0.000725,
+        "ignored": false,
+        "matchStatus": "MATCH",
+        "match_depth": 2,
+        "offset": 51.255882812,
+        "sample_length": 3.359999895,
+        "score": 2759,
+        "slice": "fe1",
+        "timeSkew": 0.001153,
+        "trackId": "5164590",
+        "track_length": 258193
+      },
+      {
+        "algorithm": "TwoPoint",
+        "best_match": false,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "gpu_front_shazamapp_prog",
+        "clusterTrackId": "330136262",
+        "commercial": false,
+        "data_set": "fe",
+        "data_set_song_id": 330136262,
+        "duplicatesCount": 127,
+        "endpoint": "feshazamapp",
+        "facility": "ykz.b",
+        "frequencySkew": 0.000193,
+        "ignored": false,
+        "matchStatus": "RESOLVED_MATCH",
+        "match_depth": 2,
+        "offset": 51.529089844000005,
+        "sample_length": 3.359999895,
+        "score": 2637,
+        "slice": "fe1",
+        "timeSkew": 0.001556,
+        "trackId": "5164590",
+        "track_length": 305574
+      }
+    ],
+    "tagid": "24bd9039-35df-4b47-bb37-bd52ef25ecdd",
+    "timestamp": 1512604796779,
+    "timezone": "America/Chicago",
+    "type": "AUDIO"
+  },
+  {
+    "client": "SHAZAM",
+    "geolocation": {},
+    "installation": {
+      "accountId": "595143e5d99b1fee6037b876bd17013433552cc7",
+      "application": {
+        "flavour": "SHAZAM",
+        "version": "11.4.3"
+      },
+      "country": "CA",
+      "device": {
+        "operatingSystem": {
+          "name": "IOS",
+          "version": "11.0.1"
+        }
+      },
+      "language": "en",
+      "noads": false,
+      "platform": "IPHONE"
+    },
+    "match": {
+      "track": {
+        "cluster": "music_b",
+        "duplicatesCount": 2,
+        "facility": "gpu-production.europe-west1-d",
+        "frequencyskew": 0.000363,
+        "id": 76281508,
+        "metadata": {
+          "artistname": "STANCE PUNKS",
+          "tracktitle": "アイワナビー"
+        },
+        "offset": -1.1225325929999999,
+        "score": 8686,
+        "timeskew": 0.00022
+      }
+    },
+    "matches": [
+      {
+        "algorithm": "TwoPoint",
+        "best_match": true,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "music_b",
+        "clusterTrackId": "155226494",
+        "commercial": false,
+        "data_set": "musicb",
+        "data_set_song_id": 155226494,
+        "duplicatesCount": 2,
+        "endpoint": "musicb",
+        "facility": "gpu-production.europe-west1-d",
+        "frequencySkew": 0.000363,
+        "ignored": false,
+        "matchStatus": "MATCH",
+        "match_depth": 2,
+        "offset": -1.1225325929999999,
+        "sample_length": 12.00462532,
+        "score": 8686,
+        "slice": "musicb7",
+        "timeSkew": 0.00022,
+        "trackId": "76281508",
+        "track_length": 266797
+      },
+      {
+        "algorithm": "TwoPoint",
+        "best_match": false,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "music_b",
+        "clusterTrackId": "154680332",
+        "commercial": false,
+        "data_set": "musicb",
+        "data_set_song_id": 154680332,
+        "duplicatesCount": 2,
+        "endpoint": "musicb",
+        "facility": "gpu-production.europe-west1-d",
+        "frequencySkew": 0.000193,
+        "ignored": false,
+        "matchStatus": "RESOLVED_MATCH",
+        "match_depth": 2,
+        "offset": -0.553816956,
+        "sample_length": 12.00462532,
+        "score": 8643,
+        "slice": "musicb5",
+        "timeSkew": 0.000119,
+        "trackId": "76281508",
+        "track_length": 269792
+      }
+    ],
+    "tagid": "C3B1029A-C34E-4C04-AADA-31BFD1CC2D79",
+    "timestamp": 1512604787182,
+    "timezone": "America/Toronto",
+    "type": "AUDIO"
+  },
+  {
+    "client": "SHAZAM",
+    "geolocation": {},
+    "installation": {
+      "accountId": "eb7fb59eb0ffc8b6218164df405cd4a21ad8a03e",
+      "application": {
+        "flavour": "SHAZAM",
+        "version": "11.4.3"
+      },
+      "country": "FR",
+      "device": {
+        "operatingSystem": {
+          "name": "IOS",
+          "version": "11.2"
+        }
+      },
+      "language": "fr",
+      "noads": false,
+      "platform": "IPHONE"
+    },
+    "match": {
+      "track": {
+        "cluster": "gpu_front_shazamapp_prog",
+        "duplicatesCount": 0,
+        "facility": "pme.b",
+        "frequencyskew": 0.000121,
+        "id": 342524283,
+        "metadata": {
+          "artistname": "Think Up Anger Feat. Malia J",
+          "tracktitle": "Shout"
+        },
+        "offset": 141.44771875,
+        "score": 1394,
+        "timeskew": -0.002979
+      }
+    },
+    "matches": [
+      {
+        "algorithm": "TwoPoint",
+        "best_match": true,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "gpu_front_shazamapp_prog",
+        "clusterTrackId": "342524283",
+        "commercial": false,
+        "data_set": "fe",
+        "data_set_song_id": 342524283,
+        "duplicatesCount": 0,
+        "endpoint": "feshazamapp",
+        "facility": "pme.b",
+        "frequencySkew": 0.000121,
+        "ignored": false,
+        "matchStatus": "MATCH",
+        "match_depth": 2,
+        "offset": 141.44771875,
+        "sample_length": 3.007999897,
+        "score": 1394,
+        "slice": "fe1",
+        "timeSkew": -0.002979,
+        "trackId": "342524283",
+        "track_length": 190655
+      }
+    ],
+    "tagid": "A5262151-D2E4-4585-B58D-5F1218C1D78D",
+    "timestamp": 1512604796250,
+    "timezone": "Europe/Paris",
+    "type": "AUDIO"
+  },
+  {
+    "client": "SHAZAM",
+    "geolocation": {
+      "zone": "03",
+      "region": {
+        "locality": "Antofagasta",
+        "country": "Chile"
+      },
+      "latitude": -22.47,
+      "longitude": -68.93
+    },
+    "installation": {
+      "accountId": "b58173e264f29507d4fb37d94a51fc8bddf9b386",
+      "application": {
+        "flavour": "SHAZAM",
+        "version": "11.4.3"
+      },
+      "country": "CL",
+      "device": {
+        "operatingSystem": {
+          "name": "IOS",
+          "version": "11.1.2"
+        }
+      },
+      "language": "es",
+      "noads": false,
+      "platform": "IPHONE"
+    },
+    "match": {
+      "track": {
+        "cluster": "gpu_front_shazamapp_prog",
+        "duplicatesCount": 5,
+        "facility": "ykz.a",
+        "frequencyskew": 0.000737,
+        "id": 321810043,
+        "metadata": {
+          "artistname": "Nicky Jam, Sia",
+          "tracktitle": "Cheap Thrills Remix"
+        },
+        "offset": 42.029972656,
+        "score": 2366,
+        "timeskew": -0.000284
+      }
+    },
+    "matches": [
+      {
+        "algorithm": "TwoPoint",
+        "best_match": true,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "gpu_front_shazamapp_prog",
+        "clusterTrackId": "321810043",
+        "commercial": false,
+        "data_set": "fe",
+        "data_set_song_id": 321810043,
+        "duplicatesCount": 5,
+        "endpoint": "feshazamapp",
+        "facility": "ykz.a",
+        "frequencySkew": 0.000737,
+        "ignored": false,
+        "matchStatus": "MATCH",
+        "match_depth": 2,
+        "offset": 42.029972656,
+        "sample_length": 5.013249874,
+        "score": 2366,
+        "slice": "fe1",
+        "timeSkew": -0.000284,
+        "trackId": "321810043",
+        "track_length": 212160
+      }
+    ],
+    "tagid": "7645A5F7-065A-4E39-BFED-F897E8F84FE6",
+    "timestamp": 1512604794084,
+    "timezone": "America/Santiago",
+    "type": "AUDIO"
+  },
+  {
+    "client": "SHAZAM",
+    "geolocation": {
+      "zone": "FL",
+      "region": {
+        "locality": "Florida",
+        "country": "United States"
+      },
+      "latitude": 28.61,
+      "longitude": -81.29
+    },
+    "installation": {
+      "accountId": "d711facc493c4e6bf37ae1f09ddca5dbe5357f35",
+      "application": {
+        "flavour": "SHAZAM",
+        "version": "11.4.3"
+      },
+      "country": "US",
+      "device": {
+        "operatingSystem": {
+          "name": "IOS",
+          "version": "11.1.2"
+        }
+      },
+      "language": "en-US",
+      "noads": false,
+      "platform": "IPHONE"
+    },
+    "match": {
+      "track": {
+        "campaignId": "connect:shazam_ads_usa:Saatchi_Toyota_Camry_Q417_NAR_20170830_A7R5nAGEa",
+        "cluster": "music_a_prog",
+        "duplicatesCount": 45,
+        "facility": "gpu-production.europe-west1-d",
+        "frequencyskew": 0.001483,
+        "id": 267137833,
+        "metadata": {
+          "artistname": "The Revivalists",
+          "tracktitle": "Wish I Knew You"
+        },
+        "offset": 32.739394531,
+        "score": 1195,
+        "timeskew": 0.00321
+      }
+    },
+    "matches": [
+      {
+        "algorithm": "TwoPoint",
+        "best_match": true,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "music_a_prog",
+        "clusterTrackId": "344664190",
+        "commercial": false,
+        "data_set": "musica",
+        "data_set_song_id": 344664190,
+        "duplicatesCount": 45,
+        "endpoint": "musica",
+        "facility": "gpu-production.europe-west1-d",
+        "frequencySkew": 0.001483,
+        "ignored": false,
+        "matchStatus": "MATCH",
+        "match_depth": 1,
+        "offset": 32.739394531,
+        "sample_length": 3.018500089,
+        "score": 1195,
+        "slice": "musica0",
+        "timeSkew": 0.00321,
+        "trackId": "267137833",
+        "track_length": 252995
+      }
+    ],
+    "tagid": "995965B8-8F4D-4545-9B00-F81A88FD8B5B",
+    "timestamp": 1512604795911,
+    "timezone": "America/New_York",
+    "type": "AUDIO"
+  },
+  {
+    "client": "SHAZAM",
+    "installation": {
+      "accountId": "2eb72ffbd0b9d88349a5b8c5faf8a569ad622e34",
+      "application": {
+        "flavour": "SHAZAM",
+        "version": "8.1.2"
+      },
+      "country": "RU",
+      "device": {
+        "operatingSystem": {
+          "name": "android",
+          "version": "5.0.2"
+        }
+      },
+      "language": "ru",
+      "noads": false,
+      "platform": "ANDROID"
+    },
+    "match": {
+      "track": {
+        "cluster": "gpu_front_shazamapp_prog",
+        "duplicatesCount": 320,
+        "facility": "pme.b",
+        "frequencyskew": 0.00187,
+        "id": 672327,
+        "metadata": {
+          "artistname": "Europe",
+          "tracktitle": "Rock The Night"
+        },
+        "offset": 230.777515625,
+        "score": 1615,
+        "timeskew": 0.007883
+      }
+    },
+    "matches": [
+      {
+        "algorithm": "TwoPoint",
+        "best_match": true,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "gpu_front_shazamapp_prog",
+        "clusterTrackId": "107473061",
+        "commercial": false,
+        "data_set": "fe",
+        "data_set_song_id": 107473061,
+        "duplicatesCount": 320,
+        "endpoint": "feshazamapp",
+        "facility": "pme.b",
+        "frequencySkew": 0.00187,
+        "ignored": false,
+        "matchStatus": "MATCH",
+        "match_depth": 2,
+        "offset": 230.777515625,
+        "sample_length": 5.077250003,
+        "score": 1615,
+        "slice": "fe1",
+        "timeSkew": 0.007883,
+        "trackId": "672327",
+        "track_length": 244093
+      }
+    ],
+    "tagid": "3654815c-2604-4fc7-8a70-de0f7757dd4d",
+    "timestamp": 1512604793590,
+    "timezone": "Asia/Kamchatka",
+    "type": "AUDIO"
+  },
+  {
+    "client": "SHAZAM",
+    "geolocation": {
+      "zone": "07",
+      "region": {
+        "locality": "Distrito Federal",
+        "country": "Brazil"
+      },
+      "latitude": -15.78,
+      "longitude": -47.93
+    },
+    "installation": {
+      "accountId": "7ac1f26c0b75423ac5532af723997a1c30d383d6",
+      "application": {
+        "flavour": "SHAZAM",
+        "version": "11.4.1"
+      },
+      "country": "BR",
+      "device": {
+        "operatingSystem": {
+          "name": "IOS",
+          "version": "10.3.1"
+        }
+      },
+      "language": "pt-BR",
+      "noads": false,
+      "platform": "IPHONE"
+    },
+    "match": {
+      "track": {
+        "cluster": "music_b",
+        "duplicatesCount": 5,
+        "facility": "gpu-production.europe-west1-d",
+        "frequencyskew": 0.000709,
+        "id": 331589881,
+        "metadata": {
+          "artistname": "Disciples",
+          "tracktitle": "Daylight (Raffa Fl Remix)"
+        },
+        "offset": 174.7976875,
+        "score": 2679,
+        "timeskew": 0.001499
+      }
+    },
+    "matches": [
+      {
+        "algorithm": "TwoPoint",
+        "best_match": true,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "music_b",
+        "clusterTrackId": "365672656",
+        "commercial": false,
+        "data_set": "musicb",
+        "data_set_song_id": 365672656,
+        "duplicatesCount": 5,
+        "endpoint": "musicb",
+        "facility": "gpu-production.europe-west1-d",
+        "frequencySkew": 0.000709,
+        "ignored": false,
+        "matchStatus": "MATCH",
+        "match_depth": 2,
+        "offset": 174.7976875,
+        "sample_length": 12.00462532,
+        "score": 2679,
+        "slice": "musicb2",
+        "timeSkew": 0.001499,
+        "trackId": "331589881",
+        "track_length": 384158
+      }
+    ],
+    "tagid": "D900570A-E0BA-4BEA-99C3-43CEB4378AAB",
+    "timestamp": 1512604786596,
+    "timezone": "America/Sao_Paulo",
+    "type": "AUDIO"
+  },
+  {
+    "client": "SHAZAM",
+    "geolocation": {
+      "zone": "NY",
+      "region": {
+        "locality": "New York",
+        "country": "United States"
+      },
+      "latitude": 40.72,
+      "longitude": -73.73
+    },
+    "installation": {
+      "accountId": "2b6e19e164897100a86cdccdf638b50284050a69",
+      "application": {
+        "flavour": "SHAZAM",
+        "version": "11.4.3"
+      },
+      "country": "US",
+      "device": {
+        "operatingSystem": {
+          "name": "IOS",
+          "version": "11.1"
+        }
+      },
+      "language": "en-US",
+      "noads": false,
+      "platform": "IPHONE"
+    },
+    "match": {
+      "track": {
+        "cluster": "gpu_front_shazamapp_prog",
+        "duplicatesCount": 11,
+        "facility": "ykz.a",
+        "frequencyskew": 0.020881,
+        "id": 382256023,
+        "metadata": {
+          "artistname": "Wiz Khalifa",
+          "tracktitle": "Letterman"
+        },
+        "offset": 73.525296875,
+        "score": 2244,
+        "timeskew": 0.01682
+      }
+    },
+    "matches": [
+      {
+        "algorithm": "TwoPoint",
+        "best_match": true,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "gpu_front_shazamapp_prog",
+        "clusterTrackId": "382310146",
+        "commercial": false,
+        "data_set": "fe",
+        "data_set_song_id": 382310146,
+        "duplicatesCount": 11,
+        "endpoint": "feshazamapp",
+        "facility": "ykz.a",
+        "frequencySkew": 0.020881,
+        "ignored": false,
+        "matchStatus": "MATCH",
+        "match_depth": 2,
+        "offset": 73.525296875,
+        "sample_length": 3.007999897,
+        "score": 2244,
+        "slice": "fe1",
+        "timeSkew": 0.01682,
+        "trackId": "382256023",
+        "track_length": 188562
+      }
+    ],
+    "tagid": "6103F415-ED64-452F-940E-D1A0C57C927E",
+    "timestamp": 1512604795674,
+    "timezone": "America/New_York",
+    "type": "AUDIO"
+  },
+  {
+    "client": "SHAZAM",
+    "geolocation": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "installation": {
+      "accountId": "4071c6bc99f5004d1c53f62d2d6efcf4107a855d",
+      "application": {
+        "flavour": "SHAZAM",
+        "version": "8.1.6"
+      },
+      "country": "CL",
+      "device": {
+        "operatingSystem": {
+          "name": "android",
+          "version": "5.1.1"
+        }
+      },
+      "language": "es",
+      "noads": false,
+      "platform": "ANDROID"
+    },
+    "match": {
+      "track": {
+        "cluster": "gpu_front_shazamapp",
+        "duplicatesCount": 11,
+        "facility": "ykz.b",
+        "frequencyskew": -0.000483,
+        "id": 352573314,
+        "metadata": {
+          "artistname": "Yandel",
+          "tracktitle": "Mi Religión"
+        },
+        "offset": 79.678546875,
+        "score": 10024,
+        "timeskew": -0.000808
+      }
+    },
+    "matches": [
+      {
+        "algorithm": "TwoPoint",
+        "best_match": true,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "gpu_front_shazamapp",
+        "clusterTrackId": "354268323",
+        "commercial": false,
+        "data_set": "fe",
+        "data_set_song_id": 354268323,
+        "duplicatesCount": 11,
+        "endpoint": "feshazamapp",
+        "facility": "ykz.b",
+        "frequencySkew": -0.000483,
+        "ignored": false,
+        "matchStatus": "MATCH",
+        "match_depth": 2,
+        "offset": 79.678546875,
+        "sample_length": 12.170624732,
+        "score": 10024,
+        "slice": "fe1",
+        "timeSkew": -0.000808,
+        "trackId": "352573314",
+        "track_length": 238049
+      }
+    ],
+    "tagid": "0c7b8f3a-1764-40ab-bdf6-6eddf373759f",
+    "timestamp": 1512320710472,
+    "timezone": "America/Sao_Paulo",
+    "type": "AUDIO"
+  },
+  {
+    "client": "SHAZAM",
+    "installation": {
+      "accountId": "39021fb5cc63ba1008382d33c94484c41e673d20",
+      "application": {
+        "flavour": "SHAZAM",
+        "version": "8.4.0"
+      },
+      "country": "IT",
+      "device": {
+        "operatingSystem": {
+          "name": "iOS",
+          "version": "7.1.2"
+        }
+      },
+      "language": "it",
+      "noads": false,
+      "platform": "IPHONE"
+    },
+    "match": {
+      "track": {
+        "cluster": "music_a",
+        "duplicatesCount": 2,
+        "facility": "gpu-production.europe-west1-d",
+        "frequencyskew": -0.018935,
+        "id": 146792737,
+        "metadata": {
+          "artistname": "Zoe Zoe",
+          "tracktitle": "86 Fall"
+        },
+        "offset": 2.6805004880000003,
+        "score": 1786,
+        "timeskew": -0.016456
+      }
+    },
+    "matches": [
+      {
+        "algorithm": "TwoPoint",
+        "best_match": false,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "music_a",
+        "clusterTrackId": "146792737",
+        "commercial": false,
+        "data_set": "musica",
+        "data_set_song_id": 146792737,
+        "duplicatesCount": 2,
+        "endpoint": "musica",
+        "facility": "gpu-production.europe-west1-d",
+        "frequencySkew": -0.018935,
+        "ignored": false,
+        "matchStatus": "MATCH",
+        "match_depth": 2,
+        "offset": 2.6805004880000003,
+        "sample_length": 12.00462532,
+        "score": 1786,
+        "slice": "musica0",
+        "timeSkew": -0.016456,
+        "trackId": "146792737",
+        "track_length": 382047
+      },
+      {
+        "algorithm": "TwoPoint",
+        "best_match": true,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "music_a",
+        "clusterTrackId": "285505698",
+        "commercial": false,
+        "data_set": "musica",
+        "data_set_song_id": 285505698,
+        "duplicatesCount": 0,
+        "endpoint": "musica",
+        "facility": "gpu-production.europe-west1-d",
+        "frequencySkew": 0.016708,
+        "ignored": false,
+        "matchStatus": "RESOLVED_MATCH",
+        "match_depth": 2,
+        "offset": 104.154140625,
+        "sample_length": 12.00462532,
+        "score": 2508,
+        "slice": "musica1",
+        "timeSkew": 0.0154,
+        "trackId": "285505698",
+        "track_length": 313286
+      }
+    ],
+    "tagid": "B39FB146-DE01-442E-A8EC-23DE7FF212A9",
+    "timestamp": 1512604786912,
+    "timezone": "Europe/Rome",
+    "type": "AUDIO"
+  },
+  {
+    "client": "SHAZAM",
+    "installation": {
+      "accountId": "033087bbb776a76a15589257bb07cb7626ea8c61",
+      "application": {
+        "flavour": "SHAZAM",
+        "version": "8.1.6"
+      },
+      "country": "DO",
+      "device": {
+        "operatingSystem": {
+          "name": "android",
+          "version": "6.0.1"
+        }
+      },
+      "language": "es",
+      "noads": false,
+      "platform": "ANDROID"
+    },
+    "match": {
+      "track": {
+        "cluster": "music_a",
+        "duplicatesCount": 6,
+        "facility": "gpu-production.europe-west1-b",
+        "frequencyskew": -0.00023,
+        "id": 82739739,
+        "metadata": {
+          "artistname": "Hector Tricoche",
+          "tracktitle": "Lapiz De Carmin"
+        },
+        "offset": 66.42885156199999,
+        "score": 4405,
+        "timeskew": -0.000561
+      }
+    },
+    "matches": [
+      {
+        "algorithm": "TwoPoint",
+        "best_match": true,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "music_a",
+        "clusterTrackId": "347519104",
+        "commercial": false,
+        "data_set": "musica",
+        "data_set_song_id": 347519104,
+        "duplicatesCount": 6,
+        "endpoint": "musica",
+        "facility": "gpu-production.europe-west1-b",
+        "frequencySkew": -0.00023,
+        "ignored": false,
+        "matchStatus": "MATCH",
+        "match_depth": 2,
+        "offset": 66.42885156199999,
+        "sample_length": 12.170624732,
+        "score": 4405,
+        "slice": "musica0",
+        "timeSkew": -0.000561,
+        "trackId": "82739739",
+        "track_length": 273973
+      },
+      {
+        "algorithm": "TwoPoint",
+        "best_match": false,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "music_a",
+        "clusterTrackId": "82739739",
+        "commercial": false,
+        "data_set": "musica",
+        "data_set_song_id": 82739739,
+        "duplicatesCount": 6,
+        "endpoint": "musica",
+        "facility": "gpu-production.europe-west1-b",
+        "frequencySkew": 0.001354,
+        "ignored": false,
+        "matchStatus": "RESOLVED_MATCH",
+        "match_depth": 2,
+        "offset": 66.753875,
+        "sample_length": 12.170624732,
+        "score": 4167,
+        "slice": "musica1",
+        "timeSkew": 0.000815,
+        "trackId": "82739739",
+        "track_length": 274644
+      },
+      {
+        "algorithm": "TwoPoint",
+        "best_match": false,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "music_a",
+        "clusterTrackId": "347588663",
+        "commercial": false,
+        "data_set": "musica",
+        "data_set_song_id": 347588663,
+        "duplicatesCount": 6,
+        "endpoint": "musica",
+        "facility": "gpu-production.europe-west1-b",
+        "frequencySkew": 0.000138,
+        "ignored": false,
+        "matchStatus": "RESOLVED_MATCH",
+        "match_depth": 2,
+        "offset": 66.632101562,
+        "sample_length": 12.170624732,
+        "score": 4122,
+        "slice": "musica0",
+        "timeSkew": 0.001905,
+        "trackId": "82739739",
+        "track_length": 271760
+      }
+    ],
+    "tagid": "7ba675ee-5305-46d5-8910-23a5a05a1374",
+    "timestamp": 1512604784228,
+    "timezone": "America/Santo_Domingo",
+    "type": "AUDIO"
+  },
+  {
+    "client": "SHAZAM",
+    "geolocation": {},
+    "installation": {
+      "accountId": "8f64bf5482ed2d2f8c012c170611269310050eeb",
+      "application": {
+        "flavour": "SHAZAM",
+        "version": "11.4.3"
+      },
+      "country": "ES",
+      "device": {
+        "operatingSystem": {
+          "name": "IOS",
+          "version": "10.3.3"
+        }
+      },
+      "language": "es",
+      "noads": false,
+      "platform": "IPHONE"
+    },
+    "match": {
+      "track": {
+        "cluster": "music_a",
+        "duplicatesCount": 31,
+        "facility": "gpu-production.europe-west1-d",
+        "frequencyskew": 0.002581,
+        "id": 350788,
+        "metadata": {
+          "artistname": "Tom Waits",
+          "tracktitle": "Downtown Train"
+        },
+        "offset": 85.169734375,
+        "score": 4189,
+        "timeskew": -0.000295
+      }
+    },
+    "matches": [
+      {
+        "algorithm": "TwoPoint",
+        "best_match": true,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "music_a",
+        "clusterTrackId": "3110833",
+        "commercial": false,
+        "data_set": "musica",
+        "data_set_song_id": 3110833,
+        "duplicatesCount": 31,
+        "endpoint": "musica",
+        "facility": "gpu-production.europe-west1-d",
+        "frequencySkew": 0.002581,
+        "ignored": false,
+        "matchStatus": "MATCH",
+        "match_depth": 2,
+        "offset": 85.169734375,
+        "sample_length": 12.00462532,
+        "score": 4189,
+        "slice": "musica2",
+        "timeSkew": -0.000295,
+        "trackId": "350788",
+        "track_length": 231280
+      }
+    ],
+    "tagid": "EBBBF3F4-20FF-420D-ACDD-555A23314C12",
+    "timestamp": 1512604786133,
+    "timezone": "Europe/Madrid",
+    "type": "AUDIO"
+  },
+  {
+    "client": "SHAZAM",
+    "geolocation": {
+      "zone": "04",
+      "region": {
+        "locality": "Hamburg",
+        "country": "Germany"
+      },
+      "latitude": 53.57,
+      "longitude": 9.98
+    },
+    "installation": {
+      "accountId": "6ee289de6fff9ff287ac31091db5b794aff1185a",
+      "application": {
+        "flavour": "SHAZAM",
+        "version": "11.3.0"
+      },
+      "country": "DE",
+      "device": {
+        "operatingSystem": {
+          "name": "IOS",
+          "version": "10.3.1"
+        }
+      },
+      "language": "de",
+      "noads": false,
+      "platform": "IPHONE"
+    },
+    "match": {
+      "track": {
+        "cluster": "gpu_front_shazamapp_prog",
+        "duplicatesCount": 8,
+        "facility": "pme.b",
+        "frequencyskew": 0.000403,
+        "id": 79217888,
+        "metadata": {
+          "artistname": "Soap&Skin",
+          "tracktitle": "Me And The Devil"
+        },
+        "offset": 64.28277343799999,
+        "score": 4368,
+        "timeskew": -0.001645
+      }
+    },
+    "matches": [
+      {
+        "algorithm": "TwoPoint",
+        "best_match": true,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "gpu_front_shazamapp_prog",
+        "clusterTrackId": "317468697",
+        "commercial": false,
+        "data_set": "fe",
+        "data_set_song_id": 317468697,
+        "duplicatesCount": 8,
+        "endpoint": "feshazamapp",
+        "facility": "pme.b",
+        "frequencySkew": 0.000403,
+        "ignored": false,
+        "matchStatus": "MATCH",
+        "match_depth": 2,
+        "offset": 64.28277343799999,
+        "sample_length": 9.009249687,
+        "score": 4368,
+        "slice": "fe1",
+        "timeSkew": -0.001645,
+        "trackId": "79217888",
+        "track_length": 184736
+      }
+    ],
+    "tagid": "EAE9F504-E8F8-4D31-A90F-F677AD54A071",
+    "timestamp": 1512604789069,
+    "timezone": "Europe/Berlin",
+    "type": "AUDIO"
+  },
+  {
+    "client": "SHAZAM",
+    "geolocation": {},
+    "installation": {
+      "accountId": "5bac324016a758058fbe7dbe05d5b3d0bddeb310",
+      "application": {
+        "flavour": "SHAZAM",
+        "version": "11.2.0"
+      },
+      "country": "US",
+      "device": {
+        "operatingSystem": {
+          "name": "IOS",
+          "version": "11.0.3"
+        }
+      },
+      "language": "en-US",
+      "noads": false,
+      "platform": "IPHONE"
+    },
+    "match": {
+      "track": {
+        "cluster": "gpu_front_shazamapp_prog",
+        "duplicatesCount": 27,
+        "facility": "ykz.b",
+        "frequencyskew": 0.000322,
+        "id": 261663383,
+        "metadata": {
+          "artistname": "Chris Young",
+          "tracktitle": "I'm Comin' Over"
+        },
+        "offset": 69.586226562,
+        "score": 1163,
+        "timeskew": 0.001102
+      }
+    },
+    "matches": [
+      {
+        "algorithm": "TwoPoint",
+        "best_match": true,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "gpu_front_shazamapp_prog",
+        "clusterTrackId": "261663383",
+        "commercial": false,
+        "data_set": "fe",
+        "data_set_song_id": 261663383,
+        "duplicatesCount": 27,
+        "endpoint": "feshazamapp",
+        "facility": "ykz.b",
+        "frequencySkew": 0.000322,
+        "ignored": false,
+        "matchStatus": "MATCH",
+        "match_depth": 2,
+        "offset": 69.586226562,
+        "sample_length": 3.157249927,
+        "score": 1163,
+        "slice": "fe1",
+        "timeSkew": 0.001102,
+        "trackId": "261663383",
+        "track_length": 197306
+      }
+    ],
+    "tagid": "CAA596BF-CEE6-446F-BE9A-7B3CBAA70E51",
+    "timestamp": 1512604794982,
+    "timezone": "America/Indiana/Indianapolis",
+    "type": "AUDIO"
+  },
+  {
+    "client": "SHAZAM",
+    "geolocation": {},
+    "installation": {
+      "accountId": "ca4441b8aba374f4d4aebb95de3949080a7422ef",
+      "application": {
+        "flavour": "SHAZAM",
+        "version": "11.4.3"
+      },
+      "country": "CO",
+      "device": {
+        "operatingSystem": {
+          "name": "IOS",
+          "version": "11.1.2"
+        }
+      },
+      "language": "es",
+      "noads": false,
+      "platform": "IPHONE"
+    },
+    "match": {
+      "track": {
+        "cluster": "gpu_front_shazamapp",
+        "duplicatesCount": 1,
+        "facility": "ykz.a",
+        "frequencyskew": 0.041767,
+        "id": 377163426,
+        "metadata": {
+          "artistname": "Rancido",
+          "tracktitle": "Levels (Sahar Z Remix)"
+        },
+        "offset": 496.8825625,
+        "score": 1781,
+        "timeskew": 0.033493
+      }
+    },
+    "matches": [
+      {
+        "algorithm": "TwoPoint",
+        "best_match": true,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "gpu_front_shazamapp",
+        "clusterTrackId": "377163426",
+        "commercial": false,
+        "data_set": "fe",
+        "data_set_song_id": 377163426,
+        "duplicatesCount": 1,
+        "endpoint": "feshazamapp",
+        "facility": "ykz.a",
+        "frequencySkew": 0.041767,
+        "ignored": false,
+        "matchStatus": "MATCH",
+        "match_depth": 2,
+        "offset": 496.8825625,
+        "sample_length": 12.010624885,
+        "score": 1781,
+        "slice": "fe1",
+        "timeSkew": 0.033493,
+        "trackId": "377163426",
+        "track_length": 530593
+      }
+    ],
+    "tagid": "9D80BF4F-8245-42DA-B297-45C75E81CDBA",
+    "timestamp": 1512604786011,
+    "timezone": "America/Bogota",
+    "type": "AUDIO"
+  },
+  {
+    "client": "SHAZAM",
+    "geolocation": {
+      "zone": "NJ",
+      "region": {
+        "locality": "New Jersey",
+        "country": "United States"
+      },
+      "latitude": 40.31,
+      "longitude": -74.34
+    },
+    "installation": {
+      "accountId": "ce9e09e9c08287ce23d70167cbead6dd618e62e4",
+      "application": {
+        "flavour": "SHAZAM",
+        "version": "11.2.0"
+      },
+      "country": "US",
+      "device": {
+        "operatingSystem": {
+          "name": "IOS",
+          "version": "10.2"
+        }
+      },
+      "language": "en-US",
+      "noads": false,
+      "platform": "IPHONE"
+    },
+    "match": {
+      "track": {
+        "cluster": "gpu_front_shazamapp_prog",
+        "duplicatesCount": 11,
+        "facility": "ykz.b",
+        "frequencyskew": 0.020505,
+        "id": 382256023,
+        "metadata": {
+          "artistname": "Wiz Khalifa",
+          "tracktitle": "Letterman"
+        },
+        "offset": 72.670851562,
+        "score": 2540,
+        "timeskew": 0.019839
+      }
+    },
+    "matches": [
+      {
+        "algorithm": "TwoPoint",
+        "best_match": true,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "gpu_front_shazamapp_prog",
+        "clusterTrackId": "382310146",
+        "commercial": false,
+        "data_set": "fe",
+        "data_set_song_id": 382310146,
+        "duplicatesCount": 11,
+        "endpoint": "feshazamapp",
+        "facility": "ykz.b",
+        "frequencySkew": 0.020505,
+        "ignored": false,
+        "matchStatus": "MATCH",
+        "match_depth": 2,
+        "offset": 72.670851562,
+        "sample_length": 3.007999897,
+        "score": 2540,
+        "slice": "fe1",
+        "timeSkew": 0.019839,
+        "trackId": "382256023",
+        "track_length": 188562
+      }
+    ],
+    "tagid": "BF815ECD-12DC-48E4-8CE0-56E71FA7D5A4",
+    "timestamp": 1512604794831,
+    "timezone": "America/New_York",
+    "type": "AUDIO"
+  },
+  {
+    "client": "SHAZAM",
+    "geolocation": {},
+    "installation": {
+      "accountId": "8df0ceceb9a08ec126af10c7753e5fe8275c7564",
+      "application": {
+        "flavour": "SHAZAM",
+        "version": "11.4.3"
+      },
+      "country": "US",
+      "device": {
+        "operatingSystem": {
+          "name": "IOS",
+          "version": "11.1.2"
+        }
+      },
+      "language": "en-US",
+      "noads": false,
+      "platform": "IPHONE"
+    },
+    "match": {
+      "track": {
+        "cluster": "gpu_front_shazamapp_prog",
+        "duplicatesCount": 11,
+        "facility": "ykz.a",
+        "frequencyskew": 0.001096,
+        "id": 348057311,
+        "metadata": {
+          "artistname": "ODESZA Feat. WYNNE & Mansionair",
+          "tracktitle": "Line Of Sight"
+        },
+        "offset": 117.827726562,
+        "score": 2328,
+        "timeskew": -0.000957
+      }
+    },
+    "matches": [
+      {
+        "algorithm": "TwoPoint",
+        "best_match": true,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "gpu_front_shazamapp_prog",
+        "clusterTrackId": "357616629",
+        "commercial": false,
+        "data_set": "fe",
+        "data_set_song_id": 357616629,
+        "duplicatesCount": 11,
+        "endpoint": "feshazamapp",
+        "facility": "ykz.a",
+        "frequencySkew": 0.001096,
+        "ignored": false,
+        "matchStatus": "MATCH",
+        "match_depth": 2,
+        "offset": 117.827726562,
+        "sample_length": 3.007999897,
+        "score": 2328,
+        "slice": "fe1",
+        "timeSkew": -0.000957,
+        "trackId": "348057311",
+        "track_length": 237140
+      }
+    ],
+    "tagid": "D88433AA-0D3C-491C-9855-3AD71FB4FA6E",
+    "timestamp": 1512604794786,
+    "timezone": "America/New_York",
+    "type": "AUDIO"
+  },
+  {
+    "client": "SHAZAM",
+    "installation": {
+      "accountId": "18741c24147c03d118dc70e7ceeea41158662a7a",
+      "application": {
+        "flavour": "SHAZAM",
+        "version": "8.1.6"
+      },
+      "country": "CA",
+      "device": {
+        "operatingSystem": {
+          "name": "android",
+          "version": "7.0"
+        }
+      },
+      "language": "en",
+      "noads": false,
+      "platform": "ANDROID"
+    },
+    "match": {
+      "track": {
+        "cluster": "gpu_front_shazamapp_prog",
+        "duplicatesCount": 19,
+        "facility": "ykz.b",
+        "frequencyskew": 0.001225,
+        "id": 102281059,
+        "metadata": {
+          "artistname": "Demons Of Ruby Mae",
+          "tracktitle": "Beneath The Surface"
+        },
+        "offset": 24.383316406000002,
+        "score": 2137,
+        "timeskew": 0.000543
+      }
+    },
+    "matches": [
+      {
+        "algorithm": "TwoPoint",
+        "best_match": true,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "gpu_front_shazamapp_prog",
+        "clusterTrackId": "138197106",
+        "commercial": false,
+        "data_set": "fe",
+        "data_set_song_id": 138197106,
+        "duplicatesCount": 19,
+        "endpoint": "feshazamapp",
+        "facility": "ykz.b",
+        "frequencySkew": 0.001225,
+        "ignored": false,
+        "matchStatus": "MATCH",
+        "match_depth": 2,
+        "offset": 24.383316406000002,
+        "sample_length": 9.109250068,
+        "score": 2137,
+        "slice": "fe1",
+        "timeSkew": 0.000543,
+        "trackId": "102281059",
+        "track_length": 211933
+      }
+    ],
+    "tagid": "4bb538b2-8cfc-4416-8582-a2e8571976a2",
+    "timestamp": 1512604788346,
+    "timezone": "America/Toronto",
+    "type": "AUDIO"
+  },
+  {
+    "client": "SHAZAM",
+    "installation": {
+      "accountId": "0985bb832f76b0480ba23f7b1d76443bf91a6a34",
+      "application": {
+        "flavour": "SHAZAM",
+        "version": "7.4.0"
+      },
+      "country": "US",
+      "device": {
+        "operatingSystem": {
+          "name": "Android",
+          "version": "7.0"
+        }
+      },
+      "language": "en-US",
+      "noads": false,
+      "platform": "ANDROID"
+    },
+    "match": {
+      "track": {
+        "cluster": "gpu_front_shazamapp_prog",
+        "duplicatesCount": 0,
+        "facility": "ykz.a",
+        "frequencyskew": 0.000282,
+        "id": 368748264,
+        "metadata": {
+          "artistname": "Angelina Jordan",
+          "tracktitle": "It's Now Or Never (Live)"
+        },
+        "offset": 59.445679688,
+        "score": 1962,
+        "timeskew": -0.000419
+      }
+    },
+    "matches": [
+      {
+        "algorithm": "TwoPoint",
+        "best_match": true,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "gpu_front_shazamapp_prog",
+        "clusterTrackId": "368748264",
+        "commercial": false,
+        "data_set": "fe",
+        "data_set_song_id": 368748264,
+        "duplicatesCount": 0,
+        "endpoint": "feshazamapp",
+        "facility": "ykz.a",
+        "frequencySkew": 0.000282,
+        "ignored": false,
+        "matchStatus": "MATCH",
+        "match_depth": 2,
+        "offset": 59.445679688,
+        "sample_length": 3.088249921,
+        "score": 1962,
+        "slice": "fe1",
+        "timeSkew": -0.000419,
+        "trackId": "368748264",
+        "track_length": 192725
+      }
+    ],
+    "tagid": "8844bd86-7cbd-45ee-87a5-7ef6181be1f6",
+    "timestamp": 1512604796179,
+    "timezone": "America/New_York",
+    "type": "AUDIO"
+  },
+  {
+    "client": "SHAZAM",
+    "geolocation": {
+      "zone": "ENG",
+      "region": {
+        "locality": "England",
+        "country": "United Kingdom"
+      },
+      "latitude": 53.15,
+      "longitude": -2.36
+    },
+    "installation": {
+      "accountId": "08665bd934fe7c7ac4f8c1fda78c40f16f4478c8",
+      "application": {
+        "flavour": "SHAZAM",
+        "version": "11.4.3"
+      },
+      "country": "GB",
+      "device": {
+        "operatingSystem": {
+          "name": "IOS",
+          "version": "11.1.2"
+        }
+      },
+      "language": "en",
+      "noads": false,
+      "platform": "IPHONE"
+    },
+    "match": {
+      "track": {
+        "cluster": "gpu_front_shazamapp_prog",
+        "duplicatesCount": 104,
+        "facility": "pme.a",
+        "frequencyskew": 4e-05,
+        "id": 324253411,
+        "metadata": {
+          "artistname": "Jude & Frank Feat. Toto La Momposina",
+          "tracktitle": "La Luna (Extended Mix)"
+        },
+        "offset": 328.3328125,
+        "score": 2198,
+        "timeskew": -0.003513
+      }
+    },
+    "matches": [
+      {
+        "algorithm": "TwoPoint",
+        "best_match": true,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "gpu_front_shazamapp_prog",
+        "clusterTrackId": "324896378",
+        "commercial": false,
+        "data_set": "fe",
+        "data_set_song_id": 324896378,
+        "duplicatesCount": 104,
+        "endpoint": "feshazamapp",
+        "facility": "pme.a",
+        "frequencySkew": 4e-05,
+        "ignored": false,
+        "matchStatus": "MATCH",
+        "match_depth": 2,
+        "offset": 328.3328125,
+        "sample_length": 3.227499961,
+        "score": 2198,
+        "slice": "fe1",
+        "timeSkew": -0.003513,
+        "trackId": "324253411",
+        "track_length": 419578
+      },
+      {
+        "algorithm": "TwoPoint",
+        "best_match": false,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "gpu_front_shazamapp_prog",
+        "clusterTrackId": "333566034",
+        "commercial": false,
+        "data_set": "fe",
+        "data_set_song_id": 333566034,
+        "duplicatesCount": 104,
+        "endpoint": "feshazamapp",
+        "facility": "pme.a",
+        "frequencySkew": 8.1e-05,
+        "ignored": false,
+        "matchStatus": "RESOLVED_MATCH",
+        "match_depth": 2,
+        "offset": 283.14590625,
+        "sample_length": 3.227499961,
+        "score": 1916,
+        "slice": "fe1",
+        "timeSkew": 0.000693,
+        "trackId": "324253411",
+        "track_length": 354360
+      }
+    ],
+    "tagid": "6692995B-F10F-40D8-805A-670681103057",
+    "timestamp": 1512604794577,
+    "timezone": "Europe/London",
+    "type": "AUDIO"
+  },
+  {
+    "client": "SHAZAM",
+    "geolocation": {
+      "zone": "16",
+      "region": {
+        "locality": "Berlin",
+        "country": "Germany"
+      },
+      "latitude": 52.47,
+      "longitude": 13.35
+    },
+    "installation": {
+      "accountId": "00f22d6b4d483219133893e27ec4b7980270861e",
+      "application": {
+        "flavour": "SHAZAM",
+        "version": "11.4.3"
+      },
+      "country": "DE",
+      "device": {
+        "operatingSystem": {
+          "name": "IOS",
+          "version": "11.1.2"
+        }
+      },
+      "language": "de",
+      "noads": false,
+      "platform": "IPHONE"
+    },
+    "match": {
+      "track": {
+        "cluster": "music_a_prog",
+        "duplicatesCount": 31,
+        "facility": "gpu-production.europe-west1-d",
+        "frequencyskew": 0.000806,
+        "id": 5434612,
+        "metadata": {
+          "artistname": "Salif Keita",
+          "tracktitle": "Tekere"
+        },
+        "offset": 22.851382812,
+        "score": 1481,
+        "timeskew": 0.00201
+      }
+    },
+    "matches": [
+      {
+        "algorithm": "TwoPoint",
+        "best_match": true,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "music_a_prog",
+        "clusterTrackId": "153353120",
+        "commercial": false,
+        "data_set": "musica",
+        "data_set_song_id": 153353120,
+        "duplicatesCount": 31,
+        "endpoint": "musica",
+        "facility": "gpu-production.europe-west1-d",
+        "frequencySkew": 0.000806,
+        "ignored": false,
+        "matchStatus": "MATCH",
+        "match_depth": 1,
+        "offset": 22.851382812,
+        "sample_length": 5.013249874,
+        "score": 1481,
+        "slice": "musica3",
+        "timeSkew": 0.00201,
+        "trackId": "5434612",
+        "track_length": 396782
+      }
+    ],
+    "tagid": "ED4C9DFA-22F4-4021-B4A7-382E5BB9F8E5",
+    "timestamp": 1512604794687,
+    "timezone": "Europe/Berlin",
+    "type": "AUDIO"
+  },
+  {
+    "client": "SHAZAM",
+    "geolocation": {
+      "zone": "16",
+      "region": {
+        "locality": "Berlin",
+        "country": "Germany"
+      },
+      "latitude": 52.47,
+      "longitude": 13.35
+    },
+    "installation": {
+      "accountId": "00f22d6b4d483219133893e27ec4b7980270861e",
+      "application": {
+        "flavour": "SHAZAM",
+        "version": "11.4.3"
+      },
+      "country": "DE",
+      "device": {
+        "operatingSystem": {
+          "name": "IOS",
+          "version": "11.1.2"
+        }
+      },
+      "language": "de",
+      "noads": false,
+      "platform": "IPHONE"
+    },
+    "match": {
+      "track": {
+        "cluster": "music_a_prog",
+        "duplicatesCount": 31,
+        "facility": "gpu-production.europe-west1-d",
+        "frequencyskew": 0.000806,
+        "id": 5434612,
+        "metadata": {
+          "artistname": "Salif Keita",
+          "tracktitle": "Tekere"
+        },
+        "offset": 22.851382812,
+        "score": 1481,
+        "timeskew": 0.00201
+      }
+    },
+    "matches": [
+      {
+        "algorithm": "TwoPoint",
+        "best_match": true,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "music_a_prog",
+        "clusterTrackId": "153353120",
+        "commercial": false,
+        "data_set": "musica",
+        "data_set_song_id": 153353120,
+        "duplicatesCount": 31,
+        "endpoint": "musica",
+        "facility": "gpu-production.europe-west1-d",
+        "frequencySkew": 0.000806,
+        "ignored": false,
+        "matchStatus": "MATCH",
+        "match_depth": 1,
+        "offset": 22.851382812,
+        "sample_length": 5.013249874,
+        "score": 1481,
+        "slice": "musica3",
+        "timeSkew": 0.00201,
+        "trackId": "5434612",
+        "track_length": 396782
+      }
+    ],
+    "tagid": "ED4C9DFA-22F4-4021-B4A7-382E5BB9F8E5",
+    "timestamp": 1512604794687,
+    "timezone": "Europe/Berlin",
+    "type": "AUDIO"
+  },
+  {
+    "client": "SHAZAM",
+    "geolocation": {
+      "zone": "16",
+      "region": {
+        "locality": "Berlin",
+        "country": "Germany"
+      },
+      "latitude": 52.47,
+      "longitude": 13.35
+    },
+    "installation": {
+      "accountId": "00f22d6b4d483219133893e27ec4b7980270861e",
+      "application": {
+        "flavour": "SHAZAM",
+        "version": "11.4.3"
+      },
+      "country": "DE",
+      "device": {
+        "operatingSystem": {
+          "name": "IOS",
+          "version": "11.1.2"
+        }
+      },
+      "language": "de",
+      "noads": false,
+      "platform": "IPHONE"
+    },
+    "match": {
+      "track": {
+        "cluster": "music_a_prog",
+        "duplicatesCount": 31,
+        "facility": "gpu-production.europe-west1-d",
+        "frequencyskew": 0.000806,
+        "id": 5434612,
+        "metadata": {
+          "artistname": "Salif Keita",
+          "tracktitle": "Tekere"
+        },
+        "offset": 22.851382812,
+        "score": 1481,
+        "timeskew": 0.00201
+      }
+    },
+    "matches": [
+      {
+        "algorithm": "TwoPoint",
+        "best_match": true,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "music_a_prog",
+        "clusterTrackId": "153353120",
+        "commercial": false,
+        "data_set": "musica",
+        "data_set_song_id": 153353120,
+        "duplicatesCount": 31,
+        "endpoint": "musica",
+        "facility": "gpu-production.europe-west1-d",
+        "frequencySkew": 0.000806,
+        "ignored": false,
+        "matchStatus": "MATCH",
+        "match_depth": 1,
+        "offset": 22.851382812,
+        "sample_length": 5.013249874,
+        "score": 1481,
+        "slice": "musica3",
+        "timeSkew": 0.00201,
+        "trackId": "5434612",
+        "track_length": 396782
+      }
+    ],
+    "tagid": "ED4C9DFA-22F4-4021-B4A7-382E5BB9F8E5",
+    "timestamp": 1512604794687,
+    "timezone": "Europe/Berlin",
+    "type": "AUDIO"
+  },
+  {
+    "client": "SHAZAM",
+    "geolocation": {
+      "zone": "16",
+      "region": {
+        "locality": "Berlin",
+        "country": "Germany"
+      },
+      "latitude": 52.47,
+      "longitude": 13.35
+    },
+    "installation": {
+      "accountId": "00f22d6b4d483219133893e27ec4b7980270861e",
+      "application": {
+        "flavour": "SHAZAM",
+        "version": "11.4.3"
+      },
+      "country": "DE",
+      "device": {
+        "operatingSystem": {
+          "name": "IOS",
+          "version": "11.1.2"
+        }
+      },
+      "language": "de",
+      "noads": false,
+      "platform": "IPHONE"
+    },
+    "match": {
+      "track": {
+        "cluster": "music_a_prog",
+        "duplicatesCount": 31,
+        "facility": "gpu-production.europe-west1-d",
+        "frequencyskew": 0.000806,
+        "id": 5434612,
+        "metadata": {
+          "artistname": "Salif Keita",
+          "tracktitle": "Tekere"
+        },
+        "offset": 22.851382812,
+        "score": 1481,
+        "timeskew": 0.00201
+      }
+    },
+    "matches": [
+      {
+        "algorithm": "TwoPoint",
+        "best_match": true,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "music_a_prog",
+        "clusterTrackId": "153353120",
+        "commercial": false,
+        "data_set": "musica",
+        "data_set_song_id": 153353120,
+        "duplicatesCount": 31,
+        "endpoint": "musica",
+        "facility": "gpu-production.europe-west1-d",
+        "frequencySkew": 0.000806,
+        "ignored": false,
+        "matchStatus": "MATCH",
+        "match_depth": 1,
+        "offset": 22.851382812,
+        "sample_length": 5.013249874,
+        "score": 1481,
+        "slice": "musica3",
+        "timeSkew": 0.00201,
+        "trackId": "5434612",
+        "track_length": 396782
+      }
+    ],
+    "tagid": "ED4C9DFA-22F4-4021-B4A7-382E5BB9F8E5",
+    "timestamp": 1512604794687,
+    "timezone": "Europe/Berlin",
+    "type": "AUDIO"
+  },
+  {
+    "client": "SHAZAM",
+    "geolocation": {
+      "zone": "16",
+      "region": {
+        "locality": "Berlin",
+        "country": "Germany"
+      },
+      "latitude": 52.47,
+      "longitude": 13.35
+    },
+    "installation": {
+      "accountId": "00f22d6b4d483219133893e27ec4b7980270861e",
+      "application": {
+        "flavour": "SHAZAM",
+        "version": "11.4.3"
+      },
+      "country": "DE",
+      "device": {
+        "operatingSystem": {
+          "name": "IOS",
+          "version": "11.1.2"
+        }
+      },
+      "language": "de",
+      "noads": false,
+      "platform": "IPHONE"
+    },
+    "match": {
+      "track": {
+        "cluster": "music_a_prog",
+        "duplicatesCount": 31,
+        "facility": "gpu-production.europe-west1-d",
+        "frequencyskew": 0.000806,
+        "id": 5434612,
+        "metadata": {
+          "artistname": "Salif Keita",
+          "tracktitle": "Tekere"
+        },
+        "offset": 22.851382812,
+        "score": 1481,
+        "timeskew": 0.00201
+      }
+    },
+    "matches": [
+      {
+        "algorithm": "TwoPoint",
+        "best_match": true,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "music_a_prog",
+        "clusterTrackId": "153353120",
+        "commercial": false,
+        "data_set": "musica",
+        "data_set_song_id": 153353120,
+        "duplicatesCount": 31,
+        "endpoint": "musica",
+        "facility": "gpu-production.europe-west1-d",
+        "frequencySkew": 0.000806,
+        "ignored": false,
+        "matchStatus": "MATCH",
+        "match_depth": 1,
+        "offset": 22.851382812,
+        "sample_length": 5.013249874,
+        "score": 1481,
+        "slice": "musica3",
+        "timeSkew": 0.00201,
+        "trackId": "5434612",
+        "track_length": 396782
+      }
+    ],
+    "tagid": "ED4C9DFA-22F4-4021-B4A7-382E5BB9F8E5",
+    "timestamp": 1512604794687,
+    "timezone": "Europe/Berlin",
+    "type": "AUDIO"
+  },
+  {
+    "client": "SHAZAM",
+    "geolocation": {
+      "zone": "AK",
+      "region": {
+        "locality": "Alaska",
+        "country": "United States"
+      },
+      "latitude": 61.22,
+      "longitude": -149.9
+    },
+    "installation": {
+      "accountId": "04105c405a2d69c1769008a5261a9ecf56049dc4",
+      "application": {
+        "flavour": "SHAZAM",
+        "version": "11.4.3"
+      },
+      "country": "US",
+      "device": {
+        "operatingSystem": {
+          "name": "IOS",
+          "version": "11.1.2"
+        }
+      },
+      "language": "en-US",
+      "noads": false,
+      "platform": "IPHONE"
+    },
+    "match": {
+      "track": {
+        "cluster": "gpu_front_shazamapp_prog",
+        "duplicatesCount": 82,
+        "facility": "ykz.b",
+        "frequencyskew": -8.1e-05,
+        "id": 53973675,
+        "metadata": {
+          "artistname": "The Black Keys",
+          "tracktitle": "Lonely Boy"
+        },
+        "offset": 26.657480469,
+        "score": 1865,
+        "timeskew": 0.008945
+      }
+    },
+    "matches": [
+      {
+        "algorithm": "TwoPoint",
+        "best_match": true,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "gpu_front_shazamapp_prog",
+        "clusterTrackId": "122307722",
+        "commercial": false,
+        "data_set": "fe",
+        "data_set_song_id": 122307722,
+        "duplicatesCount": 82,
+        "endpoint": "feshazamapp",
+        "facility": "ykz.b",
+        "frequencySkew": -8.1e-05,
+        "ignored": false,
+        "matchStatus": "MATCH",
+        "match_depth": 2,
+        "offset": 26.657480469,
+        "sample_length": 3.134624958,
+        "score": 1865,
+        "slice": "fe1",
+        "timeSkew": 0.008945,
+        "trackId": "53973675",
+        "track_length": 193520
+      }
+    ],
+    "tagid": "A5C6D7E2-DDAB-4334-A618-D7401032761C",
+    "timestamp": 1512604793530,
+    "timezone": "America/Anchorage",
+    "type": "AUDIO"
+  },
+  {
+    "client": "SHAZAM",
+    "geolocation": {
+      "zone": "MN",
+      "region": {
+        "locality": "Minnesota",
+        "country": "United States"
+      },
+      "latitude": 45.74,
+      "longitude": -94.95
+    },
+    "installation": {
+      "accountId": "ca774fdde1450407cacdaf84b0cc6bd932ddfce4",
+      "application": {
+        "flavour": "SHAZAM",
+        "version": "11.4.0"
+      },
+      "country": "US",
+      "device": {
+        "operatingSystem": {
+          "name": "IOS",
+          "version": "11.1.2"
+        }
+      },
+      "language": "en-US",
+      "noads": false,
+      "platform": "IPHONE"
+    },
+    "match": {
+      "track": {
+        "cluster": "music_a",
+        "duplicatesCount": 102,
+        "facility": "gpu-production.europe-west1-b",
+        "frequencyskew": -0.001159,
+        "id": 261390,
+        "metadata": {
+          "artistname": "Poison",
+          "tracktitle": "I Won't Forget You"
+        },
+        "offset": 81.557710938,
+        "score": 2671,
+        "timeskew": -0.000419
+      }
+    },
+    "matches": [
+      {
+        "algorithm": "TwoPoint",
+        "best_match": true,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "music_a",
+        "clusterTrackId": "44283387",
+        "commercial": false,
+        "data_set": "musica",
+        "data_set_song_id": 44283387,
+        "duplicatesCount": 102,
+        "endpoint": "musica",
+        "facility": "gpu-production.europe-west1-b",
+        "frequencySkew": -0.001159,
+        "ignored": false,
+        "matchStatus": "MATCH",
+        "match_depth": 2,
+        "offset": 81.557710938,
+        "sample_length": 12.00462532,
+        "score": 2671,
+        "slice": "musica3",
+        "timeSkew": -0.000419,
+        "trackId": "261390",
+        "track_length": 214720
+      }
+    ],
+    "tagid": "95B704CB-D727-4E15-8F91-3D22FE1A6D6A",
+    "timestamp": 1512604785432,
+    "timezone": "America/Chicago",
+    "type": "AUDIO"
+  },
+  {
+    "client": "SHAZAM",
+    "geolocation": {
+      "zone": "TX",
+      "region": {
+        "locality": "Texas",
+        "country": "United States"
+      },
+      "latitude": 30.08,
+      "longitude": -95.42
+    },
+    "installation": {
+      "accountId": "813fe67125565bc34a1a3d023599dfc887d94687",
+      "application": {
+        "flavour": "SHAZAM",
+        "version": "11.4.3"
+      },
+      "country": "US",
+      "device": {
+        "operatingSystem": {
+          "name": "IOS",
+          "version": "11.2"
+        }
+      },
+      "language": "en-US",
+      "noads": false,
+      "platform": "IPHONE"
+    },
+    "match": {
+      "track": {
+        "cluster": "music_b",
+        "duplicatesCount": 15,
+        "facility": "gpu-production.europe-west1-b",
+        "frequencyskew": 0.0025,
+        "id": 5187633,
+        "metadata": {
+          "artistname": "Deftones",
+          "tracktitle": "Headup"
+        },
+        "offset": 95.2616875,
+        "score": 11236,
+        "timeskew": 0.001872
+      }
+    },
+    "matches": [
+      {
+        "algorithm": "TwoPoint",
+        "best_match": true,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "music_b",
+        "clusterTrackId": "232585321",
+        "commercial": false,
+        "data_set": "musicb",
+        "data_set_song_id": 232585321,
+        "duplicatesCount": 15,
+        "endpoint": "musicb",
+        "facility": "gpu-production.europe-west1-b",
+        "frequencySkew": 0.0025,
+        "ignored": false,
+        "matchStatus": "MATCH",
+        "match_depth": 2,
+        "offset": 95.2616875,
+        "sample_length": 12.010624885,
+        "score": 11236,
+        "slice": "musicb2",
+        "timeSkew": 0.001872,
+        "trackId": "5187633",
+        "track_length": 372973
+      },
+      {
+        "algorithm": "TwoPoint",
+        "best_match": false,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "music_b",
+        "clusterTrackId": "315365847",
+        "commercial": false,
+        "data_set": "musicb",
+        "data_set_song_id": 315365847,
+        "duplicatesCount": 15,
+        "endpoint": "musicb",
+        "facility": "gpu-production.europe-west1-b",
+        "frequencySkew": 0.002177,
+        "ignored": false,
+        "matchStatus": "RESOLVED_MATCH",
+        "match_depth": 2,
+        "offset": 101.253804688,
+        "sample_length": 12.010624885,
+        "score": 10359,
+        "slice": "musicb4",
+        "timeSkew": 0.001915,
+        "trackId": "5187633",
+        "track_length": 312960
+      }
+    ],
+    "tagid": "AB62D42A-85AB-4CC9-AB0B-98B9451CB2D1",
+    "timestamp": 1512604785256,
+    "timezone": "America/Chicago",
+    "type": "AUDIO"
+  },
+  {
+    "client": "SHAZAM",
+    "geolocation": {
+      "zone": "TX",
+      "region": {
+        "locality": "Texas",
+        "country": "United States"
+      },
+      "latitude": 29.57,
+      "longitude": -98.34
+    },
+    "installation": {
+      "accountId": "a8f6e95b976f9713c0b27021447d3397f21b7172",
+      "application": {
+        "flavour": "SHAZAM",
+        "version": "8.1.2"
+      },
+      "country": "US",
+      "device": {
+        "operatingSystem": {
+          "name": "android",
+          "version": "7.0"
+        }
+      },
+      "language": "en-US",
+      "noads": false,
+      "platform": "ANDROID"
+    },
+    "match": {
+      "track": {
+        "cluster": "music_a_prog",
+        "duplicatesCount": 6,
+        "facility": "gpu-production.europe-west1-b",
+        "frequencyskew": -0.000644,
+        "id": 288002458,
+        "metadata": {
+          "artistname": "Hollyn",
+          "tracktitle": "Nothin' On You"
+        },
+        "offset": 28.566404297000002,
+        "score": 2112,
+        "timeskew": 0.001959
+      }
+    },
+    "matches": [
+      {
+        "algorithm": "TwoPoint",
+        "best_match": true,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "music_a_prog",
+        "clusterTrackId": "314217290",
+        "commercial": false,
+        "data_set": "musica",
+        "data_set_song_id": 314217290,
+        "duplicatesCount": 6,
+        "endpoint": "musica",
+        "facility": "gpu-production.europe-west1-b",
+        "frequencySkew": -0.000644,
+        "ignored": false,
+        "matchStatus": "MATCH",
+        "match_depth": 1,
+        "offset": 28.566404297000002,
+        "sample_length": 3.061249971,
+        "score": 2112,
+        "slice": "musica2",
+        "timeSkew": 0.001959,
+        "trackId": "288002458",
+        "track_length": 182848
+      },
+      {
+        "algorithm": "TwoPoint",
+        "best_match": false,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "music_a_prog",
+        "clusterTrackId": "293123355",
+        "commercial": false,
+        "data_set": "musica",
+        "data_set_song_id": 293123355,
+        "duplicatesCount": 6,
+        "endpoint": "musica",
+        "facility": "gpu-production.europe-west1-b",
+        "frequencySkew": 0.001566,
+        "ignored": false,
+        "matchStatus": "RESOLVED_MATCH",
+        "match_depth": 1,
+        "offset": 57.950449219,
+        "sample_length": 3.061249971,
+        "score": 1895,
+        "slice": "musica2",
+        "timeSkew": 0.001799,
+        "trackId": "288002458",
+        "track_length": 213526
+      }
+    ],
+    "tagid": "c6bb0f06-b1de-48a4-8973-cb7c88ef8d5f",
+    "timestamp": 1512604793339,
+    "timezone": "America/Chicago",
+    "type": "AUDIO"
+  },
+  {
+    "client": "SHAZAM",
+    "geolocation": {},
+    "installation": {
+      "accountId": "2b713320610d056f8eb8424ccb542da80b824e6a",
+      "application": {
+        "flavour": "SHAZAM",
+        "version": "11.4.3"
+      },
+      "country": "US",
+      "device": {
+        "operatingSystem": {
+          "name": "IOS",
+          "version": "11.1.2"
+        }
+      },
+      "language": "en-US",
+      "noads": false,
+      "platform": "IPHONE"
+    },
+    "match": {
+      "track": {
+        "cluster": "music_a",
+        "duplicatesCount": 91,
+        "facility": "gpu-production.europe-west1-b",
+        "frequencyskew": 0.001658,
+        "id": 5109302,
+        "metadata": {
+          "artistname": "Steppenwolf",
+          "tracktitle": "It's Never Too Late"
+        },
+        "offset": 225.0710625,
+        "score": 4920,
+        "timeskew": 0.005993
+      }
+    },
+    "matches": [
+      {
+        "algorithm": "TwoPoint",
+        "best_match": true,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "music_a",
+        "clusterTrackId": "127916611",
+        "commercial": false,
+        "data_set": "musica",
+        "data_set_song_id": 127916611,
+        "duplicatesCount": 91,
+        "endpoint": "musica",
+        "facility": "gpu-production.europe-west1-b",
+        "frequencySkew": 0.001658,
+        "ignored": false,
+        "matchStatus": "MATCH",
+        "match_depth": 2,
+        "offset": 225.0710625,
+        "sample_length": 14.015999794,
+        "score": 4920,
+        "slice": "musica1",
+        "timeSkew": 0.005993,
+        "trackId": "5109302",
+        "track_length": 243540
+      },
+      {
+        "algorithm": "TwoPoint",
+        "best_match": false,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "music_a",
+        "clusterTrackId": "365156349",
+        "commercial": false,
+        "data_set": "musica",
+        "data_set_song_id": 365156349,
+        "duplicatesCount": 91,
+        "endpoint": "musica",
+        "facility": "gpu-production.europe-west1-b",
+        "frequencySkew": -0.006743,
+        "ignored": false,
+        "matchStatus": "RESOLVED_MATCH",
+        "match_depth": 2,
+        "offset": 162.610484375,
+        "sample_length": 14.015999794,
+        "score": 3586,
+        "slice": "musica1",
+        "timeSkew": 0.000243,
+        "trackId": "5109302",
+        "track_length": 181253
+      },
+      {
+        "algorithm": "TwoPoint",
+        "best_match": false,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "music_a",
+        "clusterTrackId": "347030812",
+        "commercial": false,
+        "data_set": "musica",
+        "data_set_song_id": 347030812,
+        "duplicatesCount": 91,
+        "endpoint": "musica",
+        "facility": "gpu-production.europe-west1-b",
+        "frequencySkew": -0.004546,
+        "ignored": false,
+        "matchStatus": "RESOLVED_MATCH",
+        "match_depth": 2,
+        "offset": 224.536859375,
+        "sample_length": 14.015999794,
+        "score": 3400,
+        "slice": "musica2",
+        "timeSkew": 0.004178,
+        "trackId": "5109302",
+        "track_length": 242973
+      },
+      {
+        "algorithm": "TwoPoint",
+        "best_match": true,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "music_b",
+        "clusterTrackId": "652237",
+        "commercial": false,
+        "data_set": "musicb",
+        "data_set_song_id": 652237,
+        "duplicatesCount": 91,
+        "endpoint": "musicb",
+        "facility": "gpu-production.europe-west1-d",
+        "frequencySkew": -0.003987,
+        "ignored": false,
+        "matchStatus": "RESOLVED_MATCH",
+        "match_depth": 2,
+        "offset": 162.960125,
+        "sample_length": 14.015999794,
+        "score": 2863,
+        "slice": "musicb7",
+        "timeSkew": -0.000443,
+        "trackId": "5109302",
+        "track_length": 183200
+      },
+      {
+        "algorithm": "TwoPoint",
+        "best_match": false,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "music_b",
+        "clusterTrackId": "280815879",
+        "commercial": false,
+        "data_set": "musicb",
+        "data_set_song_id": 280815879,
+        "duplicatesCount": 91,
+        "endpoint": "musicb",
+        "facility": "gpu-production.europe-west1-d",
+        "frequencySkew": 0.01941,
+        "ignored": false,
+        "matchStatus": "REJECTED",
+        "match_depth": 2,
+        "offset": 167.31459375,
+        "rejectedReason": "1: Score too low",
+        "sample_length": 14.015999794,
+        "score": 2134,
+        "slice": "musicb0",
+        "timeSkew": 0.028345,
+        "trackId": "5109302",
+        "track_length": 188823
+      }
+    ],
+    "tagid": "DC688FB1-12F3-4D6F-B651-216749AF8B78",
+    "timestamp": 1512604783155,
+    "timezone": "America/Indiana/Indianapolis",
+    "type": "AUDIO"
+  },
+  {
+    "client": "SHAZAM",
+    "geolocation": {
+      "zone": "FL",
+      "region": {
+        "locality": "Florida",
+        "country": "United States"
+      },
+      "latitude": 30.33,
+      "longitude": -81.4
+    },
+    "installation": {
+      "accountId": "e51bac819b7794c40877233789c2daf5d9bb7995",
+      "application": {
+        "flavour": "SHAZAM",
+        "version": "11.4.3"
+      },
+      "country": "US",
+      "device": {
+        "operatingSystem": {
+          "name": "IOS",
+          "version": "11.1.2"
+        }
+      },
+      "language": "en-US",
+      "noads": false,
+      "platform": "IPHONE"
+    },
+    "match": {
+      "track": {
+        "cluster": "music_a_prog",
+        "duplicatesCount": 53,
+        "facility": "gpu-production.europe-west1-d",
+        "frequencyskew": -0.000161,
+        "id": 10552371,
+        "metadata": {
+          "artistname": "Johnny Rivera & Ray Sepulveda",
+          "tracktitle": "No Vale La Pena"
+        },
+        "offset": 191.102546875,
+        "score": 2284,
+        "timeskew": -0.000598
+      }
+    },
+    "matches": [
+      {
+        "algorithm": "TwoPoint",
+        "best_match": true,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "music_a_prog",
+        "clusterTrackId": "10626026",
+        "commercial": false,
+        "data_set": "musica",
+        "data_set_song_id": 10626026,
+        "duplicatesCount": 53,
+        "endpoint": "musica",
+        "facility": "gpu-production.europe-west1-d",
+        "frequencySkew": -0.000161,
+        "ignored": false,
+        "matchStatus": "MATCH",
+        "match_depth": 1,
+        "offset": 191.102546875,
+        "sample_length": 3.007999897,
+        "score": 2284,
+        "slice": "musica2",
+        "timeSkew": -0.000598,
+        "trackId": "10552371",
+        "track_length": 354200
+      },
+      {
+        "algorithm": "TwoPoint",
+        "best_match": false,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "music_a_prog",
+        "clusterTrackId": "99122626",
+        "commercial": false,
+        "data_set": "musica",
+        "data_set_song_id": 99122626,
+        "duplicatesCount": 53,
+        "endpoint": "musica",
+        "facility": "gpu-production.europe-west1-d",
+        "frequencySkew": 0.000258,
+        "ignored": false,
+        "matchStatus": "RESOLVED_MATCH",
+        "match_depth": 1,
+        "offset": 190.915890625,
+        "sample_length": 3.007999897,
+        "score": 2268,
+        "slice": "musica3",
+        "timeSkew": -0.001471,
+        "trackId": "10552371",
+        "track_length": 280843
+      }
+    ],
+    "tagid": "C10900F2-0485-44FB-92CE-C0D3688051F7",
+    "timestamp": 1512604793967,
+    "timezone": "America/New_York",
+    "type": "AUDIO"
+  },
+  {
+    "client": "SHAZAM",
+    "geolocation": {
+      "zone": "FR",
+      "region": {
+        "locality": "Fribourg",
+        "country": "Switzerland"
+      },
+      "latitude": 46.73,
+      "longitude": 7.13
+    },
+    "installation": {
+      "accountId": "f2172a9957a1434fb70efb4ebbb3ff5e702108d1",
+      "application": {
+        "flavour": "SHAZAM",
+        "version": "8.1.6"
+      },
+      "country": "CH",
+      "device": {
+        "operatingSystem": {
+          "name": "android",
+          "version": "7.0"
+        }
+      },
+      "language": "fr",
+      "noads": false,
+      "platform": "ANDROID"
+    },
+    "match": {
+      "track": {
+        "cluster": "gpu_front_shazamapp_prog",
+        "duplicatesCount": 26,
+        "facility": "pme.a",
+        "frequencyskew": 0.000886,
+        "id": 349198057,
+        "metadata": {
+          "artistname": "Kendrick Lamar",
+          "tracktitle": "DNA."
+        },
+        "offset": 93.20403906199999,
+        "score": 2338,
+        "timeskew": 0.001803
+      }
+    },
+    "matches": [
+      {
+        "algorithm": "TwoPoint",
+        "best_match": true,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "gpu_front_shazamapp_prog",
+        "clusterTrackId": "357302213",
+        "commercial": false,
+        "data_set": "fe",
+        "data_set_song_id": 357302213,
+        "duplicatesCount": 26,
+        "endpoint": "feshazamapp",
+        "facility": "pme.a",
+        "frequencySkew": 0.000886,
+        "ignored": false,
+        "matchStatus": "MATCH",
+        "match_depth": 2,
+        "offset": 93.20403906199999,
+        "sample_length": 3.0869998929999998,
+        "score": 2338,
+        "slice": "fe1",
+        "timeSkew": 0.001803,
+        "trackId": "349198057",
+        "track_length": 185946
+      }
+    ],
+    "tagid": "42055990-a5c5-4829-83bb-e9728d56277b",
+    "timestamp": 1512604793124,
+    "timezone": "Europe/Zurich",
+    "type": "AUDIO"
+  },
+  {
+    "client": "SHAZAM",
+    "geolocation": {
+      "zone": "LA",
+      "region": {
+        "locality": "Louisiana",
+        "country": "United States"
+      },
+      "latitude": 32.52,
+      "longitude": -93.73
+    },
+    "installation": {
+      "accountId": "c07239ca4de61fbe66969ff74df7bb980dd57652",
+      "application": {
+        "flavour": "SHAZAM",
+        "version": "11.4.3"
+      },
+      "country": "US",
+      "device": {
+        "operatingSystem": {
+          "name": "IOS",
+          "version": "11.1.2"
+        }
+      },
+      "language": "en-US",
+      "noads": false,
+      "platform": "IPHONE"
+    },
+    "match": {
+      "track": {
+        "cluster": "gpu_front_shazamapp_prog",
+        "duplicatesCount": 7,
+        "facility": "ykz.b",
+        "frequencyskew": 0.002258,
+        "id": 334318426,
+        "metadata": {
+          "artistname": "Moneybagg Yo & Yo Gotti",
+          "tracktitle": "Doin 2 Much"
+        },
+        "offset": 150.33621875,
+        "score": 1659,
+        "timeskew": 0.002653
+      }
+    },
+    "matches": [
+      {
+        "algorithm": "TwoPoint",
+        "best_match": true,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "gpu_front_shazamapp_prog",
+        "clusterTrackId": "334801400",
+        "commercial": false,
+        "data_set": "fe",
+        "data_set_song_id": 334801400,
+        "duplicatesCount": 7,
+        "endpoint": "feshazamapp",
+        "facility": "ykz.b",
+        "frequencySkew": 0.002258,
+        "ignored": false,
+        "matchStatus": "MATCH",
+        "match_depth": 2,
+        "offset": 150.33621875,
+        "sample_length": 3.007999897,
+        "score": 1659,
+        "slice": "fe1",
+        "timeSkew": 0.002653,
+        "trackId": "334318426",
+        "track_length": 204695
+      }
+    ],
+    "tagid": "D2B4C232-59FB-40B9-8CD3-1817E95D3018",
+    "timestamp": 1512604793810,
+    "timezone": "America/Chicago",
+    "type": "AUDIO"
+  },
+  {
+    "client": "SHAZAM",
+    "geolocation": {
+      "zone": "16",
+      "region": {
+        "locality": "Berlin",
+        "country": "Germany"
+      },
+      "latitude": 52.47,
+      "longitude": 13.35
+    },
+    "installation": {
+      "accountId": "00f22d6b4d483219133893e27ec4b7980270861e",
+      "application": {
+        "flavour": "SHAZAM",
+        "version": "11.4.3"
+      },
+      "country": "DE",
+      "device": {
+        "operatingSystem": {
+          "name": "IOS",
+          "version": "11.1.2"
+        }
+      },
+      "language": "de",
+      "noads": false,
+      "platform": "IPHONE"
+    },
+    "match": {
+      "track": {
+        "cluster": "music_a_prog",
+        "duplicatesCount": 31,
+        "facility": "gpu-production.europe-west1-d",
+        "frequencyskew": 0.000806,
+        "id": 5434612,
+        "metadata": {
+          "artistname": "Salif Keita",
+          "tracktitle": "Tekere"
+        },
+        "offset": 22.851382812,
+        "score": 1481,
+        "timeskew": 0.00201
+      }
+    },
+    "matches": [
+      {
+        "algorithm": "TwoPoint",
+        "best_match": true,
+        "category": "MUSIC",
+        "channel_id": 0,
+        "cluster": "music_a_prog",
+        "clusterTrackId": "153353120",
+        "commercial": false,
+        "data_set": "musica",
+        "data_set_song_id": 153353120,
+        "duplicatesCount": 31,
+        "endpoint": "musica",
+        "facility": "gpu-production.europe-west1-d",
+        "frequencySkew": 0.000806,
+        "ignored": false,
+        "matchStatus": "MATCH",
+        "match_depth": 1,
+        "offset": 22.851382812,
+        "sample_length": 5.013249874,
+        "score": 1481,
+        "slice": "musica3",
+        "timeSkew": 0.00201,
+        "trackId": "5434612",
+        "track_length": 396782
+      }
+    ],
+    "tagid": "ED4C9DFA-22F4-4021-B4A7-382E5BB9F8E5",
+    "timestamp": 1512604794687,
+    "timezone": "Europe/Berlin",
+    "type": "AUDIO"
+  }
+]
