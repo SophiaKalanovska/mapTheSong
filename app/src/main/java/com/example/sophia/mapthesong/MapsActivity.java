@@ -134,7 +134,25 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
     }
 
+    public byte[] readJsonFile(String fileAddress){
+      try {
+          InputStream is = getAssets().open(fileAddress);
 
+          int size = is.available();
+
+          byte[] buffer = new byte[size];
+
+          is.read(buffer);
+
+          is.close();
+
+          return buffer;
+
+      } catch (IOException ex) {
+          ex.printStackTrace();
+          Log.d("not happen", "sorry" );
+      }
+    }
 
     public ArrayList<City> getCitiesInWorld(String tracktitle){
 
@@ -143,26 +161,10 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
 
         String json = null;
-        try {
-            InputStream is = getAssets().open("data/tags1000.json");
-
-            int size = is.available();
-
-            byte[] buffer = new byte[size];
-
-            is.read(buffer);
-
-            is.close();
-
-            json = new String(buffer, "UTF-8");
-            Log.d("must happen", json );
-
-
-        } catch (IOException ex) {
-            ex.printStackTrace();
-            Log.d("not happen", "sorry" );
+        json = new String(readJsonFile("data/tags1000.json"), "UTF-8");
+        if (json != null && !json.isEmpty()){
+          Log.d("must happen", json );
         }
-
 
         try {
             JSONArray  mArray = new JSONArray(json);
